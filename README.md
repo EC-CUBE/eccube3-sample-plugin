@@ -1,4 +1,6 @@
 # eccube3-sample-plugin
+
+[![Join the chat at https://gitter.im/EC-CUBE/eccube3-sample-plugin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EC-CUBE/eccube3-sample-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 EC-CUBE3対応のサンプルプラグインを配置するリポジトリ
 
 ## 利用方法
